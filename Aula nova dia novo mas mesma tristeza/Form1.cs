@@ -16,9 +16,9 @@ namespace Aula_nova_dia_novo_mas_mesma_tristeza
         {
             InitializeComponent();
 
-            cadastro[0].nome = "gertrudes"; cadastro[0].email = "foda@gmail.com"; cadastro[0].telefone = "696969696969696969";
-            cadastro[1].nome = "Vasco"; cadastro[1].email = "cacete@gmail.com"; cadastro[1].telefone = "43435354352";
-            cadastro[2].nome = "Pedro"; cadastro[2].email = "Cmen@gmail.com"; cadastro[2].telefone = "4124155212";
+            cadastro[0].nome = "gertrudes"; cadastro[0].email = "gertrudes@gmail.com"; cadastro[0].telefone = "(19)97722-2222";
+            cadastro[1].nome = "Vasco"; cadastro[1].email = "Vascodagama@gmail.com"; cadastro[1].telefone = "43435354352";
+            cadastro[2].nome = "Pedro"; cadastro[2].email = "Pedro@gmail.com"; cadastro[2].telefone = "4124155212";
             cadastro[3].nome = "Diabetes da Silva"; cadastro[3].email = "marcospastoreiodasilva@gmail.com"; cadastro[3].telefone = "4241243242";
 
             contCadastro = 4;
